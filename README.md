@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gregorio</h1>
-<h3 align="center">I'm a Junior Web Developer</h3>
+<h3 align="center">Front-end Developer</h3>
 <div>
   <a href="https://github.com/ggregoriom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggregoriom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
